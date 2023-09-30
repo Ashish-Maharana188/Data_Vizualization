@@ -4,3 +4,4 @@ This repository contains data vizualization projects using python libraries and 
 
 1. Automobile sales analysis/vizualization using python libraries.
 2. Stock price vizualtization over ther years.
+3. Vizualization of a dataset after querying the tables.
